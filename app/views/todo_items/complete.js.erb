@@ -1,0 +1,23 @@
+$(document).ready(function() {
+   $('#todo_item_<%= @todo_item.id %>').removeClass("magictime puffIn");
+
+   var todoItem =  $('#todo_item_<%= @todo_item.id %>  > div.todo_item > p')
+
+      function doStrike( el , callback) {
+         if ((el).find('span.struck').is(':empty')){
+            el.strike();
+         } else {
+            el.destrike();
+         }
+         $('#todo_item_<%= @todo_item.id %>').toggleClass('hide show');
+      };
+
+   setTimeout(function () { 
+      $('#notice').html("<%= flash[:notice] %>");
+      $('#notice').fadeTo(1000,1).delay(1400).fadeTo(1000,0);
+   }, 1600);
+
+ 
+   doStrike(todoItem)
+
+});

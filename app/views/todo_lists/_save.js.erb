@@ -1,0 +1,18 @@
+$("ul.errors").html("")
+<% if @todo_list.errors.any? %>
+<% @todo_list.errors.full_messages.each do |message| %>
+$("ul.errors").append($("<li />").html("<%= message.html_safe %>"))
+<% end %>
+<% else %>
+$(".product2-index").html("<%= escape_javascript(render 'todo_lists') %>")
+$("#modal-window").modal("hide")
+<% end %>
+
+$(".index_row").mouseenter(function () {
+   $(this).find('.trash').fadeTo(500,1);
+
+});
+$(".index_row").mouseleave(function (){                   
+   $(this).find('.trash').fadeTo(500,0);
+});
+

@@ -1,0 +1,16 @@
+.row.clearfix{:class => (todo_item.completed? ? "hide" : 'show'), :id => "todo_item_#{todo_item.id}"} 
+  .complete
+    = link_to complete_todo_list_todo_item_path(@todo_list, todo_item.id), method: :patch, remote: true do
+      %i.fa.fa-check
+  .todo_item
+    %p
+      -if todo_item.completed?
+        %span.struck= todo_item.content
+        %span.unstruck
+      -else
+        %span.struck
+        %span.unstruck= todo_item.content
+  .trash
+    = link_to todo_list_todo_item_path(@todo_list, todo_item.id), method: :delete, remote: true do
+      %i.fa.fa-trash
+

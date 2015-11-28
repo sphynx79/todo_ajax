@@ -1,0 +1,6 @@
+$('#todo_list_<%= @todo_list.id %>').addClass('magictime spaceOutLeft')
+setTimeout(function () { 
+    $('#todo_list_<%= @todo_list.id %>').remove();
+}, 800);
+
+

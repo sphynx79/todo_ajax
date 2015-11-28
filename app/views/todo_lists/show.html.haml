@@ -1,0 +1,23 @@
+%h2.todo_list_title
+  = @todo_list.title
+%p.todo_list_sub_title
+  = @todo_list.description
+
+- if notice != nil
+  %p#notice{:style=>"opacity:1;"}= notice
+-else
+  %p#notice{:style=>"opacity:0;"} " "
+
+
+#todo_items_wrapper
+  = render @todo_list.todo_items
+
+#form
+  = render "todo_items/form"
+    
+.links
+  = link_to 'Edit', edit_todo_list_path(@todo_list)
+  \|
+  = link_to 'Delete', todo_list_path(@todo_list), method: :delete, data: {confirm: "Are you sure?"}
+  \|
+  = link_to 'Back', todo_lists_path

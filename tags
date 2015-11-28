@@ -1,0 +1,103 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+#error_explanation	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/_form.html.haml	/^    #error_explanation$/;"	i	language:haml
+#form	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^	#form {$/;"	i	language:css
+#form	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/show.html.haml	/^  #form$/;"	i	language:haml
+#notice	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^#notice {$/;"	i	language:css
+#todo_items_wrapper	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^#todo_items_wrapper {$/;"	i	language:css
+#todo_items_wrapper	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/show.html.haml	/^#todo_items_wrapper$/;"	i	language:haml
+.actions	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/_form.html.haml	/^  .actions$/;"	c	language:haml
+.clearfix	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.clearfix:after {$/;"	c	language:css
+.clearfix	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.clearfix:after {$/;"	c	language:css
+.clearfix	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.clearfix:before,$/;"	c	language:css
+.complete	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^		.complete {$/;"	c	language:css
+.container	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.container {$/;"	c	language:css
+.field	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/_form.html.haml	/^  .field$/;"	c	language:haml
+.field	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/_form.html.haml	/^  .field$/;"	c	language:haml
+.forms	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.forms {$/;"	c	language:css
+.forms	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/edit.html.haml	/^.forms$/;"	c	language:haml
+.forms	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/new.html.haml	/^.forms$/;"	c	language:haml
+.index_row	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.index_row {$/;"	c	language:css
+.index_row	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/index.html.haml	/^  .index_row.clearfix$/;"	c	language:haml
+.links	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.links {$/;"	c	language:css
+.links	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/edit.html.haml	/^.links$/;"	c	language:haml
+.links	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/index.html.haml	/^.links$/;"	c	language:haml
+.links	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/new.html.haml	/^.links$/;"	c	language:haml
+.links	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/views/todo_lists/show.html.haml	/^.links$/;"	c	language:haml
+.row	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^	.row {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle10 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle10:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle11 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle11:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle12 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle12:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle2 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle2:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle3 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle3:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle4 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle4:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle5 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle5:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle6 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle6:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle7 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle7:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle8 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle8:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle9 {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle9:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle .sk-circle:before {$/;"	c	language:css
+.sk-fading-circle	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.sk-fading-circle {$/;"	c	language:css
+.todo_item	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^		.todo_item {$/;"	c	language:css
+.todo_list_sub_title	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^	.todo_list_sub_title {$/;"	c	language:css
+.todo_list_sub_title	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.todo_list_sub_title {$/;"	c	language:css
+.todo_list_title	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^.todo_list_title {$/;"	c	language:css
+.trash	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^		.trash {$/;"	c	language:css
+@-webkit-keyframes	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^@-webkit-keyframes sk-circleFadeDelay {$/;"	v	language:css
+@keyframes	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^@keyframes sk-circleFadeDelay {$/;"	v	language:css
+a	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^	a {$/;"	t	language:css
+a	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^	a {$/;"	t	language:css
+ActiveSupport	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c	language:Ruby
+AddCompletedAtToTodoItems	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028201209_add_completed_at_to_todo_items.rb	/^class AddCompletedAtToTodoItems < ActiveRecord::Migration$/;"	c	language:Ruby
+Application	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/config/application.rb	/^  class Application < Rails::Application$/;"	c	language:Ruby	class:Todo
+ApplicationController	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c	language:Ruby
+ApplicationHelper	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m	language:Ruby
+body	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^body {$/;"	t	language:css
+change	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028184046_create_todo_lists.rb	/^  def change$/;"	f	language:Ruby	class:CreateTodoLists
+change	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028184328_create_todo_items.rb	/^  def change$/;"	f	language:Ruby	class:CreateTodoItems
+change	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028201209_add_completed_at_to_todo_items.rb	/^  def change$/;"	f	language:Ruby	class:AddCompletedAtToTodoItems
+complete	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def complete$/;"	f	language:Ruby	class:TodoItemsController
+completed?	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/models/todo_item.rb	/^  def completed?$/;"	f	language:Ruby	class:TodoItem
+create	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def create$/;"	f	language:Ruby	class:TodoItemsController
+create	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def create$/;"	f	language:Ruby	class:TodoListsController
+CreateTodoItems	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028184328_create_todo_items.rb	/^class CreateTodoItems < ActiveRecord::Migration$/;"	c	language:Ruby
+CreateTodoLists	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/db/migrate/20151028184046_create_todo_lists.rb	/^class CreateTodoLists < ActiveRecord::Migration$/;"	c	language:Ruby
+destroy	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def destroy$/;"	f	language:Ruby	class:TodoItemsController
+destroy	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def destroy$/;"	f	language:Ruby	class:TodoListsController
+edit	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def edit$/;"	f	language:Ruby	class:TodoListsController
+html	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^html {$/;"	t	language:css
+i	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^		i {$/;"	t	language:css
+index	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def index$/;"	f	language:Ruby	class:TodoListsController
+label	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^label {$/;"	t	language:css
+new	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def new$/;"	f	language:Ruby	class:TodoListsController
+p	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^			p {$/;"	t	language:css
+set_todo_item	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def set_todo_item$/;"	f	language:Ruby	class:TodoItemsController
+set_todo_list	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def set_todo_list$/;"	f	language:Ruby	class:TodoItemsController
+set_todo_list	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^    def set_todo_list$/;"	f	language:Ruby	class:TodoListsController
+show	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def show$/;"	f	language:Ruby	class:TodoListsController
+textarea	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/assets/stylesheets/application.scss	/^textarea {$/;"	t	language:css
+Todo	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/config/application.rb	/^module Todo$/;"	m	language:Ruby
+TodoItem	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/models/todo_item.rb	/^class TodoItem < ActiveRecord::Base$/;"	c	language:Ruby
+TodoItemsController	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^class TodoItemsController < ApplicationController$/;"	c	language:Ruby
+TodoItemsControllerTest	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/test/controllers/todo_items_controller_test.rb	/^class TodoItemsControllerTest < ActionController::TestCase$/;"	c	language:Ruby
+TodoItemsHelper	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/helpers/todo_items_helper.rb	/^module TodoItemsHelper$/;"	m	language:Ruby
+TodoItemTest	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/test/models/todo_item_test.rb	/^class TodoItemTest < ActiveSupport::TestCase$/;"	c	language:Ruby
+TodoList	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/models/todo_list.rb	/^class TodoList < ActiveRecord::Base$/;"	c	language:Ruby
+TodoListsController	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^class TodoListsController < ApplicationController$/;"	c	language:Ruby
+TodoListsControllerTest	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/test/controllers/todo_lists_controller_test.rb	/^class TodoListsControllerTest < ActionController::TestCase$/;"	c	language:Ruby
+TodoListsHelper	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/helpers/todo_lists_helper.rb	/^module TodoListsHelper$/;"	m	language:Ruby
+TodoListTest	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/test/models/todo_list_test.rb	/^class TodoListTest < ActiveSupport::TestCase$/;"	c	language:Ruby
+todo_item_params	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_items_controller.rb	/^   def todo_item_params$/;"	f	language:Ruby	class:TodoItemsController
+todo_list_params	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^    def todo_list_params$/;"	f	language:Ruby	class:TodoListsController
+update	/Volumes/DATI/Dropbox/progetti_libri/12_web_apps/todo/app/controllers/todo_lists_controller.rb	/^  def update$/;"	f	language:Ruby	class:TodoListsController
