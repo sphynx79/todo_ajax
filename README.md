@@ -1,7 +1,11 @@
-#Todo Ajax App
+
+<span style="color: rgb(51, 51, 51); font-weight:bold; font-family:Georgia; font-size:2.4em;">Todo Ajax App</span>
+- - -
+
+
+<span style="color: rgb(51, 51, 51); font-weight:bold; font-family:Georgia; font-size:1.9em;">Giorno 6 della mia sfida 12 ajax app in 12 giorni</span>
 * * *
 
-## Giorno 6 della mia sfida 12 ajax app in 12 giorni
 &nbsp;
 
 #### Introduzione
