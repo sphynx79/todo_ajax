@@ -230,7 +230,7 @@ body {
 }
 
 .container {
-   width: 50%;
+   width: 46%;
    max-width: 750px;
    background: $white_opaque;
    margin: 3em auto 0 auto;
@@ -276,7 +276,7 @@ body {
 }
 
 .index_row {
-   padding: 2em;
+   padding: 1.4em;
    border-bottom: 1px solid rgba(250, 250, 250, 0.3);
    overflow: hidden;
    position:relative;
@@ -290,7 +290,7 @@ body {
 
    .todo_list_sub_title {
       margin: 0 10% 0.2em 10%;
-      font-size: 1.6em;
+      font-size: 1.4em;
       display:table-cell;
       text-align: center;
       width: 92%;
@@ -433,6 +433,7 @@ input[type="submit"] {
    cursor: pointer;
    color: $dark;
    float: right;
+   margin-top: .5em;
    
 
    &:hover {
@@ -505,6 +506,12 @@ input {
    font-family: 'Lato', sans-serif;
    padding: 10px 2% 20px 2%;
    border: 1px solid rgba(10, 10, 10, 0.71);
+   .error{
+      color:red;
+      font-size: 0.8em;
+      margin-top: -10px;
+      margin-bottom: 1em;
+      }
 }
 
 

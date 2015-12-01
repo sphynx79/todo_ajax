@@ -1,0 +1,9 @@
+.index_row.clearfix{:id => "todo_list_#{todo_list.id}"} 
+  %h2.todo_list_title.row
+    = link_to todo_list.title, todo_list
+  .row
+    %p.todo_list_sub_title
+      = todo_list.description
+    .trash{:style => "opacity: 0"}
+      = link_to todo_list_path(todo_list), method: :delete, remote: true do
+        %i.fa.fa-trash

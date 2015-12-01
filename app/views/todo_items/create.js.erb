@@ -1,2 +1,11 @@
-$("<%= j (render @todo_item) %>").hide().appendTo('#todo_items_wrapper').show().addClass('magictime puffIn');
+<% unless @todo_item.errors.any? %>
+   $("<%= j (render @todo_item) %>").hide().appendTo('#todo_items_wrapper').show().addClass('magictime puffIn');
+<% end %>
+setTimeout(function () { 
+   $('#notice').html("<%= flash[:notice] %>");
+   $('#notice').fadeTo(600,1).delay(1000).fadeTo(600,0);
+}, 1400);
+
+
+$("#new_todo_item").trigger('reset');
 

@@ -8,14 +8,15 @@ $( "<div class='error'><%= @todo_list.errors[:description].first %> </div>" ).in
 <% end %>
 <% else %>
 $("#modal-window").modal("hide")
-$("<%= j (render @todo_list) %>").hide().appendTo('.product2-index').show().addClass('magictime puffIn');
+$(".todo_list_title").html("<%= @todo_list.title %>")
+$(".todo_list_sub_title").html("<%= @todo_list.description %>")
 <% end %>
 
-$(".index_row").mouseenter(function () {
-   $(this).find('.trash').fadeTo(500,1);
 
-});
-$(".index_row").mouseleave(function (){                   
-   $(this).find('.trash').fadeTo(500,0);
-});
+
+
+setTimeout(function () { 
+   $('#notice').html("<%= flash[:notice] %>");
+   $('#notice').fadeTo(600,1).delay(1000).fadeTo(600,0);
+}, 400);
 

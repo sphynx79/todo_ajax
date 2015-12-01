@@ -3,21 +3,20 @@ class TodoItemsController < ApplicationController
    before_action :set_todo_item, except: [:create]
 
    def create
-      @todo_item = @todo_list.todo_items.create(params[:todo_item].permit(:content))
-      respond_to do |format|
-            flash.now[:notice] =  "New Todo item created"
-            format.html { redirect_to @todo_list, notice: "New Todo item created" }
-            format.js {flash.now[:notice] =  "New Todo item created"}
-      end
-      
+      @todo_item = @todo_list.todo_items.new(params[:todo_item].permit(:content))
+      if @todo_item.save
+          flash.now[:notice] =  "New Todo item created"
+      else
+         flash.now[:notice] = "New Todo item could not be create"
+      end 
    end
 
    def destroy
       @todo_item = @todo_list.todo_items.find(params[:id])
       if @todo_item.destroy
-         flash[:success] = "Todo List item was deleted."
+         flash.now[:notice] = "Todo List item was deleted."
       else
-         flash[:error] = "Todo List item could not be deleted."
+         flash.now[:notice] = "Todo List item could not be deleted."
       end
       respond_to do |format|
          format.html { redirect_to @todo_list}

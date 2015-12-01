@@ -2,13 +2,11 @@ class TodoListsController < ApplicationController
   before_action :set_todo_list, only: [:show, :edit, :update, :destroy]
 
   # GET /todo_lists
-  # GET /todo_lists.json
   def index
     @todo_lists = TodoList.all
   end
 
   # GET /todo_lists/1
-  # GET /todo_lists/1.json
   def show
   end
 
@@ -22,21 +20,10 @@ class TodoListsController < ApplicationController
   end
 
   # POST /todo_lists
-  # POST /todo_lists.json
   def create
     @todo_list = TodoList.new(todo_list_params)
     @todo_lists = TodoList.all
-
-
-    respond_to do |format|
-      if @todo_list.save
-        format.html { redirect_to @todo_list, notice: 'Todo list was successfully created.' }
-        format.js {}
-      else
-        format.html { render :new }
-        format.js {}
-      end
-    end
+    @todo_list.save
   end
 
   # PATCH/PUT /todo_lists/1
@@ -44,11 +31,11 @@ class TodoListsController < ApplicationController
   def update
     respond_to do |format|
       if @todo_list.update(todo_list_params)
-        format.html { redirect_to @todo_list, notice: 'Todo list was successfully updated.' }
-        format.json { render :show, status: :ok, location: @todo_list }
+        flash.now[:notice] =  'Todo list was successfully updated.'
+        format.js {}
       else
-        format.html { render :edit }
-        format.json { render json: @todo_list.errors, status: :unprocessable_entity }
+        flash.now[:notice] = "Todo list could not be update" 
+        format.js {}
       end
     end
   end

@@ -1,27 +1,16 @@
 .modal-dialog
   .modal-content
-    .modal-header
-      %button.close{"data-dismiss" => "modal" }
-        %span ×
-      %h4.modal-title New Todo List
     .modal-body
+      %ul.errors
       = form_for @todo_list, remote: true do |f|
-        - if @todo_list.errors.any?
-          #error_explanation
-            %h2
-              = pluralize(@todo_list.errors.count, "error")
-              prohibited this todo_list from being saved:
-            %ul
-              - @todo_list.errors.full_messages.each do |message|
-                %li= message
         .field
           = f.label :title
           %br/
-          = f.text_field :title
+          = f.text_field :title, :autocomplete => :off
         .field
           = f.label :description
           %br/
-          = f.text_area :description
+          = f.text_area :description, :autocomplete => :off
         .actions
           = f.submit
 
