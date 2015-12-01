@@ -1,10 +1,7 @@
-# Todo Ajax App
-- - -
+#Todo Ajax App
+* * *
 
-
-### Giorno 6 della mia sfida 12 ajax app in 12 giorni
-- - -
-
+## Giorno 6 della mia sfida 12 ajax app in 12 giorni
 &nbsp;
 
 #### Introduzione
