@@ -1,11 +1,3 @@
-#Todo Ajax App
-- - -
-
-
-### Giorno 6 della mia sfida 12 ajax app in 12 giorni
-- - -
-&nbsp;
-
 #### Introduzione
 Il mio obbiettivo di questa sfida è quelo di insegnare a me stesso come creare delle applicazioni utilizzando Ruby on Rails in sinergia con Ajax, come base sono stati presi gli ottimi screencast di [12 in 12 Challenge](https://mackenziechild.me/12-in-12/).
 &nbsp;
