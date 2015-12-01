@@ -1,9 +1,10 @@
-#Todo Ajax App
+# Todo Ajax App
 - - -
 
 
 ### Giorno 6 della mia sfida 12 ajax app in 12 giorni
 - - -
+
 &nbsp;
 
 #### Introduzione
@@ -19,4 +20,3 @@ Per diminuire i tempi di attesa e rendere più reattiva l'appliacione, ho utiliz
 Qui di seguido una piccola dimostrazione della nostra applicazione:
 
 ![Animated demonstration](https://cloud.githubusercontent.com/assets/5004160/11497415/2e5c065e-9819-11e5-917d-4885ab58ac79.gif)
-
