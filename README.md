@@ -23,3 +23,7 @@ Per diminuire i tempi di attesa e rendere più reattiva l'appliacione, ho utiliz
 #### Descrizione
 Qui di seguido una piccola dimostrazione della nostra applicazione:
 
+<<<<<<< HEAD
+=======
+![Animated demonstration](https://cloud.githubusercontent.com/assets/5004160/11710358/d762a206-9f1e-11e5-9252-55c167cc1476.gif)
+>>>>>>> a106e32bea31a235b4fd8093466d8dec6a89e8a6
