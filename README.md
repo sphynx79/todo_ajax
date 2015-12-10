@@ -1,10 +1,13 @@
 
-<span style="color: rgb(51, 51, 51); font-weight:bold; font-family:Georgia; font-size:2.4em;">Todo Ajax App</span>
-- - -
+# Todo Ajax App
+
+### Giorno 6 della mia sfida 12 ajax app in 12 giorni
+---
 
 
-<span style="color: rgb(51, 51, 51); font-weight:bold; font-family:Georgia; font-size:1.9em;">Giorno 6 della mia sfida 12 ajax app in 12 giorni</span>
+
 * * *
+
 
 &nbsp;
 
@@ -20,4 +23,3 @@ Per diminuire i tempi di attesa e rendere più reattiva l'appliacione, ho utiliz
 #### Descrizione
 Qui di seguido una piccola dimostrazione della nostra applicazione:
 
-![Animated demonstration](https://cloud.githubusercontent.com/assets/5004160/11497415/2e5c065e-9819-11e5-917d-4885ab58ac79.gif)
