@@ -16,7 +16,7 @@ Per diminuire i tempi di attesa e rendere più reattiva l'appliacione, ho utiliz
 &nbsp;
 
 #### Descrizione
-Qui di seguido una vide dimostrativo della nostra applicazione:
+Qui di seguido un video dimostrativo della nostra applicazione:
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZjKchSh49Ik/0.jpg)](https://www.youtube.com/watch?v=ZjKchSh49Ik)
