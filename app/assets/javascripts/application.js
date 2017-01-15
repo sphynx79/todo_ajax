@@ -18,12 +18,13 @@
 //= require turbolinks
 //= require_tree .
 
+// Turbolinks.enableTransitionCache();
 
-$(document).on('page:fetch', function() {
+$(document).on('turbolinks:request-start', function() {
   $(".sk-fading-circle").show();
 });
 
-$(document).on('page:change', function() {
+$(document).on('turbolinks:load', function() {
   $(".sk-fading-circle").hide();
 });
 
