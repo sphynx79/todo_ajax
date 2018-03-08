@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.7'
+gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -17,7 +17,7 @@ gem 'coffee-rails', '~> 4.2.1'
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '~> 4.2.2'
 
-gem 'bootstrap-modal-rails'
+gem 'bootstrap-modal-rails', '~> 2.2.5'
 
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
@@ -27,9 +27,9 @@ gem 'jbuilder', '~> 2.6'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'jquery-turbolinks'
+gem 'jquery-turbolinks', '~> 2.1.0'
 
-gem "hamlit", '~> 2.7.5'
+gem "hamlit", '~> 2.8.7'
 
 gem 'puma', '~> 3.6.2'
 # gem "haml-rails", '~> 0.9.0'
@@ -61,4 +61,4 @@ group :development, :test do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data'
